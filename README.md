@@ -1,2 +1,2 @@
-# GooglesearchAPI
-The Zenserp Search API is an easy-to-use Google search result scraper.  We offer free and premium accounts to get the best results possible.
+# Get The Fast Search Result Scraping with our SERP API-Zenserp
+The <a href="https://zenserp.com/">Zenserp Search API</a> provides a simple way to scrape Google search results. To achieve the greatest results, we offer both free and paid accounts. For all of your SERP needs, Zenserp provides a fast and dependable alternative API. With our SERP API, you can get SERP data quickly and reliably. Now is the time to try! 
